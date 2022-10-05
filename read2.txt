@@ -1,0 +1,4 @@
+mc_donalds 1940 3 15
+germany_attacks_western_europe 1940 5 10
+pearl_harbor 1941 12 7
+italy_enters_war 1940 6 10
